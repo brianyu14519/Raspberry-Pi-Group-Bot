@@ -1,4 +1,4 @@
 # Raspberry-Pi-Group-Bot
 Discord bot for the Raspberry Pi group
 
-wahey, edits
+Bot is currently discontinued until fUrther NoTIcE
